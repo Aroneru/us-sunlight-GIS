@@ -6,3 +6,5 @@ Name  : Muhammad Yermi Rachman
 NIM   : J0403231034
 
 Class : TPL A2
+
+Test: https://aroneru.github.io/us-sunlight-GIS/
